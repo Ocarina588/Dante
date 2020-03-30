@@ -17,3 +17,4 @@ solver/solver map_name
 ![](solver_example.png)
 ![](benchmark_10000x10000_map_size.png)
 ![](benchmark_20000x20000_map_size.png)
+![](big_map_example.png)
