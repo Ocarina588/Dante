@@ -7,6 +7,7 @@ compilation via Makefile
 This project work on linux
 
 example : generator/generator x y
+
           solver/solver map_name
 
 ![](example.png)
