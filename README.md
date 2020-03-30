@@ -2,6 +2,7 @@
 Maze generator/solver
 
 backtracking implementation in C
+
 compilation via Makefile
 
 This project work on linux
