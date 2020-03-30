@@ -13,6 +13,8 @@ generator/generator x y
 
 solver/solver map_name
 
+Start of a maze is the top-left corner and the end is the bottom-right corner
+
 ![](example.png)
 ![](generator_example.png)
 ![](solver_example.png)
